@@ -28,10 +28,9 @@ The platform leverages smart contracts on Lisk Sepolia to automate fund distribu
 
 ---
 
-## 📦 Repositories
+## 📦 Repository
 
-- **[seatrax/apps](https://github.com/seatrax/apps)** - Main web application (Next.js 15, TypeScript)
-- **[seatrax/smart-contract](https://github.com/seatrax/smart-contract)** - Smart contracts & UI/UX (Solidity, Foundry)
+- **[seatrax/apps](https://github.com/seatrax/apps)** - Main repository with web application and smart contracts
 
 ---
 
