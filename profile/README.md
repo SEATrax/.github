@@ -6,7 +6,7 @@
 
 **Blockchain-Based Trade Finance Platform**
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/) [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-orange)](https://soliditylang.org/) [![Lisk Sepolia](https://img.shields.io/badge/Blockchain-Lisk%20Sepolia-purple)](https://sepolia.lisk.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/) [![Solidity](https://img.shields.io/badge/Solidity-0.8.20-orange)](https://soliditylang.org/) [![Lisk Sepolia](https://img.shields.io/badge/Blockchain-Lisk%20Sepolia-purple)](https://sepolia.lisk.com/)
 
 </div>
 
